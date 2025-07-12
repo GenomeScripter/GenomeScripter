@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Farhan Eshrak
 
-🎓 **Biochemistry & Biotechnology student** at North South University | 💻 **Software & Web Developer** | 🔬 Future **Bioinformatician & Physician-Scientist**
+🎓 **Biochemistry & Biotechnology student** at North South University | 💻 **Software & Web Developer** | 🔬 Future **Bioinformatician & Scientist**
 
 ---
 
