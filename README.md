@@ -28,46 +28,15 @@ I'm a passionate, curious learner who loves bridging biology with technology. Cu
 - **Bioinformatics**: Biopython, R (for data analysis), basic Bash scripting
 - **Databases**: MongoDB, PostgreSQL, Prisma, Mongoose
 
-### Tools & Platforms
-
-- Docker, AWS, Git, GitHub Actions
-- GraphQL, REST APIs
-- Linux environments (Ubuntu)
-
----
-
-## 🚀 Projects & Work
-
-✨ **GenomeScripter** — Personal portfolio site showcasing my projects in bioinformatics, biochemistry, and software development.  
-📰 **News Crisis Analyzer Bot** — A bot to crawl news sites, analyze data on violence and crises, and summarize key insights.  
-🧬 **Bioinformatics pipelines** — (Coming soon!) Custom scripts and workflows for genomic and transcriptomic analysis.
-
-👉 Check out my pinned repositories below for more!
-
----
-
-## 🗺️ Goals
-
-- 🎯 Finish my bioinformatics learning roadmap and publish practical projects.
-- 🩺 Prepare for medical school (MCAT journey!).
-- 💡 Contribute to open-source bioinformatics tools.
-
 ---
 
 ## 📫 Let’s Connect
 
-- 🌐 [My Website](#) (coming soon!)
-- 📝 [My Blog](#) (coming soon!)
-- 💌 farhan.esharak@example.com
-- 📄 [Resume](#) (attach or link)
+- 💌 feshrak013@gmail.com
 
 ---
 
 ### ⚡ Fun Fact
 
 > "I believe that code and molecules are both languages — each telling a story of life, and I'm here to read them both."
-
----
-
-⭐️ **Thanks for visiting my profile! Drop a star ⭐️ on any repo you find interesting, or connect to collaborate!**
 
